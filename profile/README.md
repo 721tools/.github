@@ -24,7 +24,7 @@ KotorNinja dAPP is currently at the closed Alpha stage:
 2. Sweep and Limit order feature available via UI
 3. Integrated order data from Opensea and Blur
 
-# Contract
+# Contact
 
 Telegram: [@yixinrock](https://telegram.me/yixinrock)
 
